@@ -1,0 +1,9 @@
+C:\Users\Desktop-473A6\source\repos\KnC_Server_Login\KnC_Server_Login\bin\Debug\KnC_Server_Login.exe
+C:\Users\Desktop-473A6\source\repos\KnC_Server_Login\KnC_Server_Login\bin\Debug\KnC_Server_Login.pdb
+C:\Users\Desktop-473A6\source\repos\KnC_Server_Login\KnC_Server_Login\obj\Debug\KnC_Server.csproj.CoreCompileInputs.cache
+C:\Users\Desktop-473A6\source\repos\KnC_Server_Login\KnC_Server_Login\obj\Debug\KnC_Server_Login.exe
+C:\Users\Desktop-473A6\source\repos\KnC_Server_Login\KnC_Server_Login\obj\Debug\KnC_Server_Login.pdb
+C:\Users\Desktop-473A6\source\repos\KnC_Server_Login\KnC_Server_Login\obj\Debug\KnC_Server.csprojAssemblyReference.cache
+C:\Users\Desktop-473A6\source\repos\KnC_Server_Login\KnC_Server_Login\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Desktop-473A6\source\repos\KnC_Server_Login\KnC_Server_Login\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Desktop-473A6\source\repos\KnC_Server_Login\KnC_Server_Login\obj\Debug\KnC_Server.csproj.CopyComplete
